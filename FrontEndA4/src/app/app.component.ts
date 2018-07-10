@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app';
+  title = 'spring boot and angular 4 secure authentication';
+  static API_URL="http://localhost:8761";
 }
